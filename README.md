@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/88d718dd-8725-4996-bfe4-f1a4a90572d3" alt="CS2 Launcher Thumbnail">
+  <img src="images/icon.png" alt="CS2 Launcher Thumbnail">
 </p>
 
 # CS 2 Stretched Launcher
