@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "CS2Launcher/1.0.0": {
+        "runtime": {
+          "CS2Launcher.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CS2Launcher/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

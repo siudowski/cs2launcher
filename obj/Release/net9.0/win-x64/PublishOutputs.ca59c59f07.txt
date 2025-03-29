@@ -1,0 +1,2 @@
+C:\Users\jsiud\Documents\siudowski\apps\CS2Launcher\bin\Release\net9.0\win-x64\publish\CS2Launcher.pdb
+C:\Users\jsiud\Documents\siudowski\apps\CS2Launcher\bin\Release\net9.0\win-x64\publish\CS2Launcher.exe
