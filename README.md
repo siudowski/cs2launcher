@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/88d718dd-8725-4996-bfe4-f1a4a90572d3" alt="CS2 Launcher Thumbnail">
+</p>
+
 # CS 2 Stretched Launcher
 
 A simple console app that wraps [this wonderful script that allows the game to be played in windowed-stretched mode](https://www.reddit.com/r/GlobalOffensive/comments/2o51wv/multiple_monitors_and_43_stretched_resolution/).
@@ -12,7 +16,7 @@ Navigate to the installation directory (by default it's `C:\Program Files (x86)\
 It's almost plug & play.
 
 # Notice
-Be wary that it will save the path to `HKEY_CURRENT_USER\Environment` under `CS2Launcher_Path` name.
+Be wary that it will save the path you provided to `HKEY_CURRENT_USER\Environment` under `CS2Launcher_Path` name.
 Deleting .exe file from your system or uninstalling the script will not automatically remove this environment variable.
 While environment variables are harmless, you might want to know about it if you're particular about system cleanliness.
 Also excuse the 70MB file size but it's just .NET doing its self-contained-exe things (basically bundles .NET runtime inside) and I wanted it to be as simple to use as possible.
